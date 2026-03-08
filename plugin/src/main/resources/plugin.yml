@@ -1,0 +1,8 @@
+name: SignGUI
+version: '2.5.4'
+main: de.rapha149.signgui.SignGUIPlugin
+api-version: '1.13'
+description: An API to get input text via a sign in Minecraft.
+authors: [ Rapha149 ]
+website: https://github.com/Rapha149/SignGUI
+folia-supported: true
